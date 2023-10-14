@@ -2,16 +2,16 @@
 All the basic math required for data science 
 
 -------------------------------------------------------
-## Probability and Statistics
+# Probability and Statistics
 
    
 
- ###  Introduction to Statistics
+ # Introduction to Statistics
 
 
-#### Statistics is a branch of mathematics that involves collecting, analyzing, interpreting, and presenting data. It provides tools and methods to understand and make sense of large amounts of data to draw conclusions and make decisions based on the data.
+### Statistics is a branch of mathematics that involves collecting, analyzing, interpreting, and presenting data. It provides tools and methods to understand and make sense of large amounts of data to draw conclusions and make decisions based on the data.
 
-#### In practice, statistics is used in a wide range of fields, such as business, economics, social sciences, medicine, and engineering. It is used to conduct research studies, analyze market trends, evaluate the effectiveness of treatments and interventions, and make forecasts and predictions.
+###In practice, statistics is used in a wide range of fields, such as business, economics, social sciences, medicine, and engineering. It is used to conduct research studies, analyze market trends, evaluate the effectiveness of treatments and interventions, and make forecasts and predictions.
 
 
 
@@ -23,27 +23,27 @@ Examples:
 4. Government & Politics - Conducting surveys, Polling
 5. Environmental Science - Climate research
 
-## Types Statistics
+### Types Statistics
 
 ### Descriptive statistics
 
-   # -> Population vs Sample
+   #### -> Population vs Sample
    
-   # -> Parameter Vs Statistics 
+   #### -> Parameter Vs Statistics 
    
-   # -> Types of Data
+   #### -> Types of Data
    
-   # -> Measure of Central Tendency
+   #### -> Measure of Central Tendency
    
-   # -> Measure Of Dispersion
+   #### -> Measure Of Dispersion
    
-   # -> Quantiles and Percentiles
+   #### -> Quantiles and Percentiles
    
-   # -> 5 number Summary
+   #### -> 5 number Summary
 
-   # -> Covariance
+   #### -> Covariance
    
-   # -> Correlation 
+   #### -> Correlation 
 
    
 ### Inferential statistics
