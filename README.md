@@ -45,6 +45,41 @@ Examples:
    
    #### -> Correlation 
 
-   
+   #### -> Random  Variables 
+
+   #### -> Types of Random Variables
+
+           (a). Discrete Random Variable
+
+           (b). Continuous Random Variable
+           
+   #### -> Probability Distribution 
+
+   #### -> Probability Distribution Functions 
+
+          -> Types of Probability Distribution Functions
+
+                A) Probability Mass Function (PMF)
+
+                B) Probability Density Function
+
+   #### -> Cumulative Distribution Function (CDF)
+
+   #### -> Density Estimation
+
+   #### -> Parametric Density Estimation
+
+   #### -> Non-Parametric Density Estimation (KDE)
+
+   #### -> Kernel Density Estimate(KDE)
+
+   #### -> Cumulative Distribution Function(CDF) of PMF
+
+   #### -> Cumulative Distribution Function(CDF) of P Dencity F
+
+   #### -> How to use PDF and CDF in Data Analysis 
+
+   #### -> 2D Probability Density Plots
+
 ### Inferential statistics
    
