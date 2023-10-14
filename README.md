@@ -26,5 +26,16 @@ Examples:
 ## Types Statistics
 
 ### Descriptive statistics
+
+   -> # Population vs Sample
+   -> # Parameter Vs Statistics 
+   -> # Types of Data
+   -> # Measure of Central Tendency
+   -> # Measure Of Dispersion
+   -> # Quantiles and Percentiles
+   -> # 5 number Summary
+   -> # Covariance
+   -> # Correlation 
+   
 ### Inferential statistics
    
