@@ -81,5 +81,48 @@ Examples:
 
    #### -> 2D Probability Density Plots
 
+   #### -> Normal Distribution
+
+           A) What is Normal Distribution 
+
+           B) Why is it important?
+
+           C) Parameter in Normal Distribution?
+
+  #### -> Standard Normal Distribution 
+
+          A) How to transform a normal distribution into the standard normal distribution
+
+          B) What are the benefits of transforming a normal distribution into the standard normal distribution
+
+  #### -> What is the Z table?
+
+  #### -> Properties of Normal Distribution?
+
+          I) Symmetricity
+
+          II) Measure of central tendency are equal
+
+          III) Empirical Rule 
+
+          IV) The area under the curve
+          
+  #### -> Skewness
+
+           A) What is Skewness
+
+           B) How Skewness is Calculated
+
+  #### -> Use in Data Science
+
+            • Outlier detection
+            
+            • Assumptions on data for ML algorithms -> Linear Regression and GMM
+            
+            • Hypothesis Testing
+            
+            • Central Limit Theorem
+           
+
 ### Inferential statistics
    
